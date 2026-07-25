@@ -1,6 +1,6 @@
 synthesizing 
 
-cs @ vassar
+cs @ vassar \\
 mail: nguyenquangtung1306@gmail.com  
 <!--
 **tonyh1306/tonyh1306** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
